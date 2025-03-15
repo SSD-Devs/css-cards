@@ -1,0 +1,119 @@
+*,
+*:before,
+*:after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 350px;
+    min-height: 300px;
+    margin-top: 15rem;
+    padding: 10px;
+    box-shadow: 1px 1px 15px 10px #ccc;
+    border-radius: 1rem;
+    position: relative;
+    flex-direction: column;
+}
+
+.card-title {
+    position: absolute;
+    bottom: 30px;
+    font-weight: 800;
+    color: rgb(5, 116, 79);
+    text-transform: uppercase;
+    transition: transform 0.5s ease-out, opacity 0.5s ease-out;
+}
+
+.card:hover .card-title {
+    transform: translateY(40px);
+    opacity: 0;
+}
+
+.card-image {
+    border-radius: 1rem;
+    position: absolute;
+    top: -50px;
+    max-width: 80%;
+    margin: 0 auto;
+    height: 280px;
+    z-index: 100;
+    box-shadow: 1px 1px 10px 3px #ccc;
+    transition: top 0.5s ease-in-out;
+}
+
+.card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: left;
+    border-radius: 1rem;
+}
+
+.card:hover .card-image {
+    top: -150px;
+}
+
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 10px;
+    transform: translateY(-150px);
+    opacity: 0;
+    transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+}
+
+.card-content .title {
+    text-align: center;
+    line-height: 3;
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+
+.card-content .text {
+    letter-spacing: 1px;
+    padding: 0 10px;
+}
+
+.card-content .link {
+    display: inline-block;
+    width: 50%;
+    color: #fff;
+    margin: 1rem 0;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 6px 0;
+    border-radius: 6px;
+    background-color: rgb(5, 116, 79);
+    box-shadow: 1px 1px 10px 2px #ccc;
+    transition: background-color 0.3s ease, border 0.3s ease;
+}
+
+.card-content .link:hover {
+    background-color: rgba(5, 116, 79, 0.783);
+}
+
+.card:hover .card-content {
+    transform: translateY(60px);
+    opacity: 1;
+    transition-delay: 0.2s;
+}
