@@ -24,7 +24,7 @@ Este repositorio es solo para mostrar mi trabajo. No acepto contribuciones exter
 
 Aquí tienes algunos ejemplos de las cards creadas, puedes ver y experimentar con ellas en **CodePen**:
 
-- [Card 01](https://codepen.io/)
+- [Card 01](https://codepen.io/Ser2310/pen/ZYEvodP)
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usarlo y modificarlo libremente.
