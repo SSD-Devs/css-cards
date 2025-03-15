@@ -19,6 +19,12 @@ Este repositorio es solo para mostrar mi trabajo. No acepto contribuciones exter
 3. Cambia reglas CSS (colores, tamaño, fuentes).
 4. Agrega interactividad con **JavaScript** (si es necesario).
 
+
+## Ejemplos en CodePen:
+
+Aquí tienes algunos ejemplos de las cards creadas, puedes ver y experimentar con ellas en **CodePen**:
+
+- [Card 01](https://codepen.io/)
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usarlo y modificarlo libremente.
