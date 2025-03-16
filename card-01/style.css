@@ -91,6 +91,7 @@ body {
 .card-content .text {
     letter-spacing: 1px;
     padding: 0 10px;
+    text-align: center;
 }
 
 .card-content .link {
