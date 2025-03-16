@@ -16,7 +16,7 @@ Este repositorio es solo para mostrar mi trabajo. No acepto contribuciones exter
 
 1. Haz un **fork** del repositorio.
 2. Haz los cambios que desees en tu copia para usarlo en tu proyecto.
-3. Cambia reglas CSS (colores, tamaño, fuentes).
+3. Cambia reglas **CSS** (colores, tamaño, fuentes).
 4. Agrega interactividad con **JavaScript** (si es necesario).
 
 
