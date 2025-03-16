@@ -25,6 +25,7 @@ Este repositorio es solo para mostrar mi trabajo. No acepto contribuciones exter
 Aquí tienes algunos ejemplos de las cards creadas, puedes ver y experimentar con ellas en **CodePen**:
 
 - [Card 01](https://codepen.io/Ser2310/pen/ZYEvodP)
+  [Card-01-Imagen]("https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-01/card-01.webp")
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usarlo y modificarlo libremente.
