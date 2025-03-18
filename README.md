@@ -31,7 +31,7 @@ Aquí tienes algunos ejemplos de las cards creadas, puedes ver y experimentar co
 
 ## Card 02 
 
-![Card-02-Imagen](https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-02/card-02.webp)| ![Card-02-Imagen-hover](https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-02/card-02-hover.webp)  
+![Card-02-Imagen](https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-02/card-02.webp =300x)| ![Card-02-Imagen-hover](https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-02/card-02-hover.webp =300x)  
 
 
 
