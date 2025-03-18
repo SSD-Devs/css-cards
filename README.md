@@ -23,7 +23,7 @@ Este repositorio es solo para mostrar mi trabajo. No acepto contribuciones exter
 ## Ejemplos en CodePen:
 
 Aquí tienes algunos ejemplos de las cards creadas, puedes ver y experimentar con ellas en **CodePen**:  
-(Link debajo de la imágen)
+(Link debajo de la imágen, solo en las que están en codepen)
 
 ![Card-01-Imagen](https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-01/card-01.webp)  
 
