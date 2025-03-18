@@ -28,6 +28,13 @@ Aquí tienes algunos ejemplos de las cards creadas, puedes ver y experimentar co
 ![Card-01-Imagen](https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-01/card-01.webp)  
 
 [CARD 01](https://codepen.io/Ser2310/pen/ZYEvodP)
+
+## Card 02 
+
+![Card-02-Imagen](https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-02/card-02.webp) 
+
+![Card-02-Imagen-hover](https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-02/card-02-hover.webp)  
+
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usarlo y modificarlo libremente.
