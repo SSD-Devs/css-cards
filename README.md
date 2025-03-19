@@ -22,7 +22,7 @@ Este repositorio es solo para mostrar mi trabajo. No acepto contribuciones exter
 
 ## Ejemplos en CodePen:
 
-Aquí tienes algunos ejemplos de las cards creadas, puedes ver y experimentar con ellas en **CodePen**:  
+Aquí tienes algunas cards creadas. Las 2 imágenes de cada card corresponden a la  card "normal" y al hacer "hover", puedes ver y experimentar con ellas en **CodePen**:  
 (Link debajo de la imágen, solo en las que están en codepen)
 
 ![Card-01-Imagen](https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-01/card-01.webp)|![Card-01-Imagen](https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-01/card-01-hover.webp)
@@ -38,6 +38,7 @@ Aquí tienes algunos ejemplos de las cards creadas, puedes ver y experimentar co
 
 ![Card-03-Imagen](https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-03/card-03.webp)|![Card-03-Imagen-hover](https://raw.githubusercontent.com/SSD-Devs/css-cards/refs/heads/main/card-03/card-03-hover.webp)  
 
+[CARD 03](https://codepen.io/Ser2310/pen/jEOZgKG)
 
 
 ## 📄 Licencia
