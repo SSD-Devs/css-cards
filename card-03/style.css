@@ -49,6 +49,7 @@ img {
 
 .card:hover .div-img {
     border-radius: 15px 0 0 15px;
+    transition: all .4s ease-in-out;
 }
 
 .card:hover .div-img img {
