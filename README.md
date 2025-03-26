@@ -41,9 +41,17 @@ Aquí tienes algunas cards creadas. Las 2 imágenes de cada card corresponden a 
 [CARD 03](https://codepen.io/Ser2310/pen/jEOZgKG)
 
 
-## 📄 Licencia
+## Licencia
 
-Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usarlo y modificarlo libremente.
+Este proyecto está bajo la Licencia GNU General Public License v3.0 (GPL-3.0). 
+Esto significa que puedes usar, modificar y distribuir este software libremente, 
+siempre y cuando cualquier trabajo derivado se distribuya bajo los mismos términos.
+
+Para más detalles, consulta el archivo [LICENSE](LICENSE) en este repositorio 
+o visita [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html).
+
+© 2025 Sergio Suñer . Todos los derechos reservados.
+
 
 ## 🙌 ¡Espero que te sirva! 
 
