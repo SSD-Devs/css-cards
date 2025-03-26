@@ -49,3 +49,6 @@ Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usarlo
 
 Si te gusta, dale una **estrella ⭐** en GitHub.
 
+## Créditos 
+Imágenes obtenidas de ![Pixabay](https://pixabay.com/es/)
+
