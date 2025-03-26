@@ -55,7 +55,7 @@ o visita [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/license
 
 ## 🙌 ¡Espero que te sirva! 
 
-Si te gusta, dale una **estrella ⭐** en GitHub.
+Si te gusta, dale una **estrella ⭐** al repo.
 
 ## Créditos 
 Imágenes obtenidas de: [Pixabay](https://pixabay.com/es/)
